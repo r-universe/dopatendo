@@ -5,3 +5,6 @@
 [submodule "ILSAmerge"]
 	path = ILSAmerge
 	url = https://github.com/dopatendo/ilsamerge
+[submodule "enaho"]
+	path = enaho
+	url = https://github.com/dopatendo/enaho
